@@ -1,0 +1,26 @@
+{
+	"Title": "FAQs",
+	"Description": "FAQ's",
+	"FAQ": [{
+		"_id": "01",
+		"faqtype":"Returns",
+		"question": "What is the return policy?",
+		"answer": "No returns"
+	}, {
+		"_id": "02",
+		"faqtype":"Refunds",
+		"question": "Is refund policy Applicable for Amazon?",
+		"answer": "its not applicable"
+	},{
+		"_id": "03",
+		"faqtype":"Requirement",
+		"question": "What is requirement Policy?",
+		"answer": "its not applicable"
+	},{
+		"_id": "04",
+		"faqtype":"Requirement",
+		"question": "What is Policy?",
+		"answer": "not applicable"
+	}
+	]
+}
